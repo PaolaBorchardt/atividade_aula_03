@@ -11,6 +11,7 @@ const produtos = [
     { id: 9, nome: "SSD 480GB", preco: 280, categoria: "eletronicos", estoque: 20, desconto: 0 },
     { id: 10, nome: "Estante para Livros", preco: 420, categoria: "moveis", estoque: 5, desconto: 10 }
 ];
+
 // EXERCÍCIO 10: ESTATÍSTICAS DO ESTOQUE (DESAFIO)
 function estatisticasEstoque(produtos) {
 
